@@ -13,6 +13,16 @@
 
 </div>
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/PedrooH0/OctoAgenda.svg)
+![Followers](https://img.shields.io/github/followers/PedrooH0.svg)
+![Commity](https://img.shields.io/github/commit-activity/t/PedrooH0/OctoAgenda.svg)
+
+  
+</div>
+
+
 <div aling="left">
 
 # ❓ :: Sobre o projeto
