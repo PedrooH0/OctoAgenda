@@ -1,8 +1,12 @@
 <div align="center">
-<h1>📍 Projeto Apple Academy 📍</h1>
+<h1>📍 Projeto de MFDS 📍</h1>
 
-<img src = "https://github.com/PedrooH0/Projeto_AppleAcademy/assets/124939591/8ffdabdb-3534-400c-a5e2-437bd1756d67"
-/>
+<br>
+<br>
+
+<h1>Seja bem-vindo ao primeiro de muitos projetos da KrakenVortex Tech</h1>
+
+![Final Logo](https://github.com/PedrooH0/Projeto_AppleAcademy/assets/124939591/8ce60ed3-4a21-4d56-8e5f-8e571fde609e)
 
 
 
