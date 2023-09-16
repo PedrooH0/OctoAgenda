@@ -30,7 +30,7 @@
 <div aling="left">
 
 # ❓ :: Sobre o projeto
-<h3>Coming Soon 🚀</h3>
+Com o intuito de ajudar as pessoas a manterem rotinas, estipularem metas e se organizarem pessoalmente, decidimos criar um aplicativo de organização e rotina que conterá diversas mecânicas de outros aplicativos, fazendo com que você não tenha que instalar diversos aplicativos, entre elas teremos um espaço no qual você poderá anotar informações importantes, um local para salvar suas rotinas pessoais e uma área na qual você irá se dispor a não ter acesso a aplicativos que tiram o seu tempo.
 
 
 
